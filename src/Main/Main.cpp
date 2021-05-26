@@ -1,8 +1,8 @@
 #include <HelloWorld.hpp>
 
-int main(){
+int main() {
   HelloWorld helloWorld;
   helloWorld.print();
 
   return 1;
-};
+}
